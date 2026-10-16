@@ -1,0 +1,1 @@
+{"t": 1792131197.988709, "tool": "Bash", "input": {"command": "sed -i 's|price \\* percent / 100|price * (100 - percent) / 100|' discount.py && python -m unittest 2>&1 | tail"}}

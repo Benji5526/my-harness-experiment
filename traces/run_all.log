@@ -1,0 +1,54 @@
+[1/27] P1 T1 r3
+{"id": "P1_T1_r3", "policy": "P1", "task": "T1", "rep": "3", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 14.4, "duration_ms": 12658, "num_turns": 8, "edit_calls": 1, "input_tokens": 8, "output_tokens": 810, "cache_read": 173625, "cost_usd": 0.0491745, "is_error": false, "exit": 0}
+[2/27] P1 T1 r1
+{"id": "P1_T1_r1", "policy": "P1", "task": "T1", "rep": "1", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 12.0, "duration_ms": 9708, "num_turns": 7, "edit_calls": 1, "input_tokens": 8, "output_tokens": 708, "cache_read": 173248, "cost_usd": 0.0466088, "is_error": false, "exit": 0}
+[3/27] P1 T3 r1
+{"id": "P1_T3_r1", "policy": "P1", "task": "T3", "rep": "1", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 12.2, "duration_ms": 10562, "num_turns": 5, "edit_calls": 1, "input_tokens": 6, "output_tokens": 804, "cache_read": 128166, "cost_usd": 0.0424886, "is_error": false, "exit": 0}
+[4/27] P2 T1 r3
+{"id": "P2_T1_r3", "policy": "P2", "task": "T1", "rep": "3", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 12.1, "duration_ms": 10297, "num_turns": 7, "edit_calls": 1, "input_tokens": 8, "output_tokens": 714, "cache_read": 173245, "cost_usd": 0.046660499999999994, "is_error": false, "exit": 0}
+[5/27] P1 T1 r2
+{"id": "P1_T1_r2", "policy": "P1", "task": "T1", "rep": "2", "solved": true, "approvals": 1, "permission_denials": 0, "wall_s": 11.9, "duration_ms": 10215, "num_turns": 4, "edit_calls": 0, "input_tokens": 8, "output_tokens": 482, "cache_read": 172906, "cost_usd": 0.0424986, "is_error": false, "exit": 0}
+[6/27] P0 T3 r1
+{"id": "P0_T3_r1", "policy": "P0", "task": "T3", "rep": "1", "solved": true, "approvals": 2, "permission_denials": 0, "wall_s": 12.9, "duration_ms": 11231, "num_turns": 4, "edit_calls": 1, "input_tokens": 6, "output_tokens": 822, "cache_read": 128043, "cost_usd": 0.0424443, "is_error": false, "exit": 0}
+[7/27] P1 T3 r3
+{"id": "P1_T3_r3", "policy": "P1", "task": "T3", "rep": "3", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 12.3, "duration_ms": 10650, "num_turns": 4, "edit_calls": 1, "input_tokens": 6, "output_tokens": 802, "cache_read": 128053, "cost_usd": 0.0421933, "is_error": false, "exit": 0}
+[8/27] P2 T1 r1
+{"id": "P2_T1_r1", "policy": "P2", "task": "T1", "rep": "1", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 10.6, "duration_ms": 8810, "num_turns": 4, "edit_calls": 0, "input_tokens": 8, "output_tokens": 464, "cache_read": 172911, "cost_usd": 0.042347100000000006, "is_error": false, "exit": 0}
+[9/27] P0 T1 r1
+{"id": "P0_T1_r1", "policy": "P0", "task": "T1", "rep": "1", "solved": true, "approvals": 3, "permission_denials": 0, "wall_s": 12.9, "duration_ms": 11209, "num_turns": 7, "edit_calls": 1, "input_tokens": 8, "output_tokens": 684, "cache_read": 173477, "cost_usd": 0.0473077, "is_error": false, "exit": 0}
+[10/27] P2 T3 r3
+{"id": "P2_T3_r3", "policy": "P2", "task": "T3", "rep": "3", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 12.6, "duration_ms": 10959, "num_turns": 5, "edit_calls": 1, "input_tokens": 6, "output_tokens": 876, "cache_read": 128161, "cost_usd": 0.0433161, "is_error": false, "exit": 0}
+[11/27] P0 T2 r2
+{"id": "P0_T2_r2", "policy": "P0", "task": "T2", "rep": "2", "solved": true, "approvals": 2, "permission_denials": 0, "wall_s": 15.5, "duration_ms": 13893, "num_turns": 5, "edit_calls": 1, "input_tokens": 6, "output_tokens": 1047, "cache_read": 128294, "cost_usd": 0.045979400000000004, "is_error": false, "exit": 0}
+[12/27] P0 T3 r2
+{"id": "P0_T3_r2", "policy": "P0", "task": "T3", "rep": "2", "solved": true, "approvals": 2, "permission_denials": 0, "wall_s": 12.9, "duration_ms": 11241, "num_turns": 4, "edit_calls": 1, "input_tokens": 6, "output_tokens": 772, "cache_read": 128045, "cost_usd": 0.0418645, "is_error": false, "exit": 0}
+[13/27] P2 T3 r1
+{"id": "P2_T3_r1", "policy": "P2", "task": "T3", "rep": "1", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 13.1, "duration_ms": 11384, "num_turns": 4, "edit_calls": 1, "input_tokens": 6, "output_tokens": 782, "cache_read": 128053, "cost_usd": 0.041953300000000006, "is_error": false, "exit": 0}
+[14/27] P0 T1 r3
+{"id": "P0_T1_r3", "policy": "P0", "task": "T1", "rep": "3", "solved": true, "approvals": 3, "permission_denials": 0, "wall_s": 13.6, "duration_ms": 11968, "num_turns": 7, "edit_calls": 1, "input_tokens": 8, "output_tokens": 705, "cache_read": 173477, "cost_usd": 0.0475177, "is_error": false, "exit": 0}
+[15/27] P2 T1 r2
+{"id": "P2_T1_r2", "policy": "P2", "task": "T1", "rep": "2", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 14.5, "duration_ms": 12734, "num_turns": 7, "edit_calls": 1, "input_tokens": 8, "output_tokens": 714, "cache_read": 173478, "cost_usd": 0.0476038, "is_error": false, "exit": 0}
+[16/27] P0 T2 r1
+{"id": "P0_T2_r1", "policy": "P0", "task": "T2", "rep": "1", "solved": true, "approvals": 3, "permission_denials": 0, "wall_s": 13.1, "duration_ms": 11459, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1012, "cache_read": 128301, "cost_usd": 0.0458021, "is_error": false, "exit": 0}
+[17/27] P2 T2 r1
+{"id": "P2_T2_r1", "policy": "P2", "task": "T2", "rep": "1", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 12.8, "duration_ms": 11101, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1147, "cache_read": 128301, "cost_usd": 0.0475961, "is_error": false, "exit": 0}
+[18/27] P2 T2 r2
+{"id": "P2_T2_r2", "policy": "P2", "task": "T2", "rep": "2", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 11.3, "duration_ms": 9500, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1045, "cache_read": 128306, "cost_usd": 0.0466886, "is_error": false, "exit": 0}
+[19/27] P0 T1 r2
+{"id": "P0_T1_r2", "policy": "P0", "task": "T1", "rep": "2", "solved": true, "approvals": 3, "permission_denials": 0, "wall_s": 13.7, "duration_ms": 12045, "num_turns": 7, "edit_calls": 1, "input_tokens": 8, "output_tokens": 673, "cache_read": 173489, "cost_usd": 0.0471829, "is_error": false, "exit": 0}
+[20/27] P0 T3 r3
+{"id": "P0_T3_r3", "policy": "P0", "task": "T3", "rep": "3", "solved": true, "approvals": 2, "permission_denials": 0, "wall_s": 13.5, "duration_ms": 11703, "num_turns": 4, "edit_calls": 1, "input_tokens": 6, "output_tokens": 831, "cache_read": 128045, "cost_usd": 0.0424785, "is_error": false, "exit": 0}
+[21/27] P1 T2 r2
+{"id": "P1_T2_r2", "policy": "P1", "task": "T2", "rep": "2", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 11.2, "duration_ms": 9516, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1098, "cache_read": 128303, "cost_usd": 0.0470503, "is_error": false, "exit": 0}
+[22/27] P1 T2 r3
+{"id": "P1_T2_r3", "policy": "P1", "task": "T2", "rep": "3", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 14.8, "duration_ms": 13073, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1152, "cache_read": 128308, "cost_usd": 0.047510800000000006, "is_error": false, "exit": 0}
+[23/27] P0 T2 r3
+{"id": "P0_T2_r3", "policy": "P0", "task": "T2", "rep": "3", "solved": true, "approvals": 3, "permission_denials": 0, "wall_s": 14.1, "duration_ms": 12451, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1049, "cache_read": 128306, "cost_usd": 0.04645660000000001, "is_error": false, "exit": 0}
+[24/27] P1 T3 r2
+{"id": "P1_T3_r2", "policy": "P1", "task": "T3", "rep": "2", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 10.6, "duration_ms": 8788, "num_turns": 5, "edit_calls": 1, "input_tokens": 6, "output_tokens": 853, "cache_read": 128175, "cost_usd": 0.0430035, "is_error": false, "exit": 0}
+[25/27] P2 T3 r2
+{"id": "P2_T3_r2", "policy": "P2", "task": "T3", "rep": "2", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 14.1, "duration_ms": 12297, "num_turns": 4, "edit_calls": 1, "input_tokens": 6, "output_tokens": 832, "cache_read": 128049, "cost_usd": 0.042496900000000004, "is_error": false, "exit": 0}
+[26/27] P2 T2 r3
+{"id": "P2_T2_r3", "policy": "P2", "task": "T2", "rep": "3", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 15.4, "duration_ms": 11940, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 955, "cache_read": 128302, "cost_usd": 0.0450322, "is_error": false, "exit": 0}
+[27/27] P1 T2 r1
+{"id": "P1_T2_r1", "policy": "P1", "task": "T2", "rep": "1", "solved": true, "approvals": 0, "permission_denials": 0, "wall_s": 15.1, "duration_ms": 13044, "num_turns": 6, "edit_calls": 2, "input_tokens": 6, "output_tokens": 1072, "cache_read": 128296, "cost_usd": 0.0471856, "is_error": false, "exit": 0}

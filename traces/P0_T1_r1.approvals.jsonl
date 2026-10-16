@@ -1,0 +1,3 @@
+{"t": 1792131243.5156953, "tool": "PowerShell", "input": {"command": "python -m unittest 2>&1 | Select-Object -First 60"}}
+{"t": 1792131247.1043005, "tool": "Edit", "input": {"file_path": "C:\\aiffel_work\\1016\\_work\\P0_T1_r1\\discount.py", "old_string": "price * percent / 100", "new_string": "price * (100 - percent) / 100", "replace_all": false}}
+{"t": 1792131247.7770324, "tool": "PowerShell", "input": {"command": "python -m unittest 2>&1 | Out-String"}}
